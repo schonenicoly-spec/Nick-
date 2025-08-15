@@ -28,5 +28,5 @@ Você pode visualizar o certificado de conclusão clicando no link abaixo:
 
 Autora
 Nicoly Schone
- [Meu perfil no GitHub](https://github.com/Nick)  
+   
 📧 Email: schone.nicoly@escola.pr.gov.br
